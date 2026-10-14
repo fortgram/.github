@@ -7,7 +7,7 @@ standard Telegram app on a child's phone: the parent decides who the child can t
 everyone else — in the chat list, in search and in notifications. Settings are protected by a parental PIN.
 
 - Website: **[fgram.org](https://fgram.org)**
-- Documentation: [Quick Start](https://github.com/fortgram/fortgram-site/blob/main/docs/quickstart.md) · [all docs](https://github.com/fortgram/fortgram-site/tree/main/docs)
+- Documentation: [Quick Start](https://github.com/fortgram/fortgram-site/blob/main/docs/quickstart.md) · [How it works](https://github.com/fortgram/fortgram-site/blob/main/docs/fortgram.md) · [all docs](https://github.com/fortgram/fortgram-site/tree/main/docs)
 - Download: [GitHub Releases](https://github.com/fortgram/fortgram/releases) (Android 7.0+, arm64)
 - [Privacy Policy](https://github.com/fortgram/fortgram-site/blob/main/docs/privacy.md)
 
@@ -22,7 +22,7 @@ FortGram — форк [Telegram X](https://github.com/TGX-Android/Telegram-X) д
 скрывает — в списке чатов, в поиске и в уведомлениях. Настройки защищены родительским PIN.
 
 - Сайт: **[fgram.org](https://fgram.org)**
-- Документация: [Быстрый старт](https://github.com/fortgram/fortgram-site/blob/main/docs/quickstart.md#быстрый-старт) · [вся документация](https://github.com/fortgram/fortgram-site/tree/main/docs)
+- Документация: [Быстрый старт](https://github.com/fortgram/fortgram-site/blob/main/docs/quickstart.md#быстрый-старт) · [Как это работает](https://github.com/fortgram/fortgram-site/blob/main/docs/fortgram.md#fortgram--как-это-работает) · [вся документация](https://github.com/fortgram/fortgram-site/tree/main/docs)
 - Скачать: [GitHub Releases](https://github.com/fortgram/fortgram/releases) (Android 7.0+, arm64)
 - [Политика конфиденциальности](https://github.com/fortgram/fortgram-site/blob/main/docs/privacy.md#политика-конфиденциальности)
 
